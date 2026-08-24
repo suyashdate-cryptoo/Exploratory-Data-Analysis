@@ -28,6 +28,23 @@ The objective of this project is to understand the dataset, identify patterns, a
 6. Identify relationships
 7. Extract insights
 8. Summarize findings
+   ---
+   ## Exploratory Analysis
+
+The initial analysis focuses on understanding the structure and quality of the dataset.
+
+### Analysis Performed
+
+- Dataset inspection
+- Shape and column analysis
+- Data type identification
+- Statistical summary
+- Missing value analysis
+- Duplicate detection
+- Unique value analysis
+- Survival distribution
+- ---
+
 
 ## Dataset
 
